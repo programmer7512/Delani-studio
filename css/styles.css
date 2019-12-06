@@ -8,6 +8,9 @@
 }
 .h1{
   text-align: center;
+  background: url("cover1.jpg");
+  background-repeat: no-repeat;
+  color: #ffffff;
 }
 .what{
   text-align: center;
