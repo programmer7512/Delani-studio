@@ -4,12 +4,19 @@
   background:
 }
 .services{
+  color: #ffffff;
   text-align: center;
+  background: url("cover2.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 60vh;
 }
+
 .h1{
   text-align: center;
   background: url("cover1.jpg");
   background-repeat: no-repeat;
+  background-size: auto;
   color: #ffffff;
 }
 .what{
@@ -19,5 +26,11 @@
   text-align: center;
 }
 .contact{
+  text-align: center;
+}
+.row{
+  text-align: center;
+}
+.p4{
   text-align: center;
 }
