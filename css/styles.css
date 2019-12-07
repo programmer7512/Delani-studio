@@ -46,7 +46,7 @@
 }
 input{
     margin: 2rem ;
-    
+
 }
 .icons{
     text-align: center;
@@ -73,5 +73,5 @@ margin-right: 20%;
   background: url("cover3.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-  height: 60vh;
+  height: 85vh;
 }
