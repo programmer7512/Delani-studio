@@ -52,6 +52,15 @@ input{
     margin: 2rem ;
 
 }
+.caption{
+  font-size: 12px;
+}
+#p1,
+#p4,
+#para3 {
+    display: none;
+}
+
 .icons{
     text-align: center;
     margin-left: 600px;
@@ -72,7 +81,7 @@ background-color: transparent;
 margin-right: 20%;
 }
 .contact{
-  color: #ffffff;
+  color: white;
   text-align: center;
   background: url("cover3.jpg");
   background-repeat: no-repeat;
