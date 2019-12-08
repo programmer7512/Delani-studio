@@ -3,7 +3,7 @@ $(document).ready(function () {
     $(".p1").toggle();
   });
   $(".image2").click(function () {
-    $(".para4").toggle();
+    $(".p4").toggle();
   });
   $(".image3").click(function () {
     $(".para3").toggle();
