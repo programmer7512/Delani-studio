@@ -1,13 +1,31 @@
-$(document).ready(function () {
-  $("#image1").click(function () {
-    $(".p1").toggle();
-  });
-  $(".image2").click(function () {
-    $(".p4").toggle();
-  });
-  $(".image3").click(function () {
-    $(".para3").toggle();
-  });
+// $(document).ready(function () {
+//   $("#image1").click(function () {
+//     $(".p1").toggle();
+//   });
+//   $(".image2").click(function () {
+//     $(".p4").toggle();
+//   });
+//   $(".image3").click(function () {
+//     $(".para3").toggle();
+//   });
+
+  $(document).ready(function() {
+    $(".onCrack1").click(function() {
+        $("#image1").toggle();
+        $("#p1").toggle();
+    });
+    $(".onCrack2").click(function() {
+        $("#p4").toggle();
+        $("#image2").toggle();
+    });
+    $(".onCrack3").click(function() {
+        $("#para3").toggle();
+        $("#image3").toggle();
+    });
+});
+
+
+
   $(".image").hover(function () {
     $(this).css({ opacity: "0.7", "transition":"2s" });
   },
