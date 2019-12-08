@@ -55,9 +55,9 @@ input{
 .caption{
   font-size: 12px;
 }
-#p1,
-#p4,
-#para3 {
+#hide-design,
+#hide-development,
+#product-management {
     display: none;
 }
 

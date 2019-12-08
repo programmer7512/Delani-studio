@@ -34,8 +34,6 @@ $("#design").click(function(){
   $("#productManagement").click(function(){
     $("#product-management").toggle()
 
-
-
   $(".image").hover(function () {
     $(this).css({ opacity: "0.7", "transition":"2s" });
   },
