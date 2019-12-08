@@ -9,20 +9,30 @@
 //     $(".para3").toggle();
 //   });
 
-  $(document).ready(function() {
-    $(".onCrack1").click(function() {
-        $("#image1").toggle();
-        $("#p1").toggle();
-    });
-    $(".onCrack2").click(function() {
-        $("#p4").toggle();
-        $("#image2").toggle();
-    });
-    $(".onCrack3").click(function() {
-        $("#para3").toggle();
-        $("#image3").toggle();
-    });
-});
+//   $(document).ready(function() {
+//     $("#image1").click(function() {
+//         $("#p1").toggle();
+//         // $("#p1").toggle();
+//     });
+//     $("#image2").click(function() {
+//         $("#p4").toggle();
+//         // $("#image2").toggle();
+//     });
+//     $("#image3").click(function() {
+//         $("#para3").toggle();
+//         // $("#image3").toggle();
+//     });
+// });
+$("#design").click(function(){
+    $("#hide-design").toggle();
+  })
+
+  $("#development").click(function(){
+    $("#hide-development").toggle();
+  })
+
+  $("#productManagement").click(function(){
+    $("#product-management").toggle()
 
 
 
