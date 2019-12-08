@@ -15,8 +15,9 @@
 .h1{
   text-align: center;
   background: url("cover1.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
+  background-repeat: no-repeat;6
+  background-size: cover;
+
   color: #ffffff;
 }
 .what{
