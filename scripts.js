@@ -33,12 +33,12 @@ $("#design").click(function(){
 
   $("#productManagement").click(function(){
     $("#product-management").toggle()
-
+//hover
   $(".image").hover(function () {
-    $(this).css({ opacity: "0.7", "transition":"2s" });
+    $(this).css({ opacity: "0.7", "transition":"1s" });
   },
     function () {
-      $(this).css({ opacity: "0.7" ,"transition":"2s" });
+      $(this).css({ opacity: "0.7" ,"transition":"1s" });
     });
 });
 
