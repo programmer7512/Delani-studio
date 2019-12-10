@@ -18,6 +18,9 @@ live link for the hosted page https://programmer7512.github.io/Delani-studio/
 There are no known bugs. In case you do encounter any,or you have suggestion to improve it contact me using contacts below
 ## Technologies Used
 The site was created using HTML, CSS and Javascript as the primary languages . Bootstrap CSS, Javascript and Jquery were also included for additional styling.
+## CODEBEAT RATING
+[![codebeat badge](https://codebeat.co/badges/fa2012a1-4e45-4a61-8a25-732e44f5821c)](https://codebeat.co/projects/github-com-programmer7512-delani-studio-master)
+
 ## Support and contact details
 If you experience issues that are related to my site and are hindering you from accessing this material, then please contact me @ j_oduor@yahoo.com
 
