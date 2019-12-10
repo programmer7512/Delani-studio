@@ -1,5 +1,6 @@
 # DELANI STUDIO WEBSITE
-## AUTHOR ODUOR JOSEPH
+## AUTHOR 
+  ODUOR JOSEPH
 #### This is the landing page for Delani Studio
 ## Description
 #sections are
