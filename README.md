@@ -1,4 +1,5 @@
 # DELANI STUDIO WEBSITE
+## AUTHOR [<programmer7512>]
 #### This is the landing page for Delani Studio
 ## Description
 ##sections are
